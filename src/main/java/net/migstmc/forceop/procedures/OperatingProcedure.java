@@ -1,12 +1,10 @@
-package net.mcreator.dude.procedures;
+package net.migstmc.forceop.procedures;
 
 import net.minecraft.world.entity.Entity;
 import net.minecraft.server.level.ServerLevel;
 import net.minecraft.commands.arguments.EntityArgument;
 import net.minecraft.commands.CommandSourceStack;
 import net.minecraft.commands.CommandSource;
-
-import net.mcreator.dude.DudeMod;
 
 import java.util.Map;
 

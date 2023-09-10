@@ -1,6 +1,5 @@
-package net.earthcomputer.clientcommands;
+package net.migstmc.forceop;
 
-import net.earthcomputer.clientcommands.mixin.CheckedRandomAccessor;
 import net.minecraft.client.MinecraftClient;
 import net.minecraft.client.world.ClientWorld;
 import net.minecraft.entity.Entity;

@@ -1,4 +1,4 @@
-package net.earthcomputer.clientcommands;
+package net.migstmc.forceop;
 
 import com.google.common.collect.Iterables;
 import com.mojang.logging.LogUtils;

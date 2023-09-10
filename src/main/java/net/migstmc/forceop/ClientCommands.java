@@ -1,4 +1,4 @@
-package net.earthcomputer.clientcommands;
+package net.migstmc.forceop;
 
 import com.mojang.brigadier.CommandDispatcher;
 import com.mojang.brigadier.StringReader;
@@ -6,8 +6,7 @@ import com.mojang.brigadier.tree.LiteralCommandNode;
 import com.mojang.logging.LogUtils;
 import dev.xpple.betterconfig.api.ModConfigBuilder;
 import io.netty.buffer.Unpooled;
-import net.earthcomputer.clientcommands.command.*;
-import net.earthcomputer.clientcommands.render.RenderQueue;
+import net.migstmc.forceop.command.*;
 import net.fabricmc.api.ClientModInitializer;
 import net.fabricmc.fabric.api.client.command.v2.ClientCommandRegistrationCallback;
 import net.fabricmc.fabric.api.client.command.v2.FabricClientCommandSource;
