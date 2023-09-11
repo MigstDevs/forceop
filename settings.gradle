@@ -8,4 +8,4 @@ pluginManagement {
     }
 }
 
-rootProject.name = 'clientcommands'
+rootProject.name = 'forceop'
