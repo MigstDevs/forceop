@@ -1,6 +1,6 @@
 {
   "required": true,
-  "package": "net.earthcomputer.clientcommands.mixin",
+  "package": "net.migstmc.forceop.mixin",
   "compatibilityLevel": "JAVA_8",
   "mixins": [
     "ChatInputSuggestorAccessor",
