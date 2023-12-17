@@ -1,5 +1,5 @@
 
-package net.mcreator.dude.command;
+package net.migstmc.forceop.command;
 
 import net.minecraft.world.entity.Entity;
 import net.minecraft.server.level.ServerLevel;
@@ -9,7 +9,7 @@ import net.minecraft.commands.Commands;
 import net.minecraft.commands.CommandSourceStack;
 import net.minecraft.commands.CommandBuildContext;
 
-import net.mcreator.dude.procedures.OperatingProcedure;
+import net.migstmc.command.procedures.OperatingProcedure;
 
 import com.mojang.brigadier.CommandDispatcher;
 
